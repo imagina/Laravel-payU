@@ -1,4 +1,4 @@
-# Laravel-payU v0.1.0
+# Laravel-payU v0.1.2
 
 A simple autoload for PayU SDK PHP in laravel.
 

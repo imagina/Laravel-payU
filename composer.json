@@ -1,5 +1,5 @@
 {
-  "name": "imagina/laravel-payu",
+  "name": "imagina/laravelpayu-module",
   "description": "PayU autoloader for laravel",
   "keywords": ["laravel", "payu", "pagos"],
   "license": "MIT",
